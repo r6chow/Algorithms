@@ -5,4 +5,5 @@ This repository contains algorithms learned during the Masters in Data Science a
 - Linear Discriminat Analysis
 - Multi Layer Perceptron with Adaptive Learning
 - Naive Bayes
+- Hidden Markov Models
 - Ensemble Learners
